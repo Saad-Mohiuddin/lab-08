@@ -28,6 +28,6 @@ public class CustomList {
 
 
     public int countCities() {
-        return 0;
+        return cities.size();
     }
 }
